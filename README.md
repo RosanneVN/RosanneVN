@@ -5,7 +5,7 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=RosanneVN.RosanneVN)
+
 [![Github](https://img.shields.io/github/followers/RosanneVN?label=Follow&style=social)](https://github.com/RosanneVN)
 
 <div size='20px'>Holi, my name is Rosanne and I'm pinky dev :smile: 
