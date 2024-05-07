@@ -1,46 +1,43 @@
 
 
-<h1> Hello Fellow < Developers/ >! </h1>
+<h1> Holi < Developers/ >! </h1>
 <p align='center'>
 </p>
-
-
-
-[![Github](https://img.shields.io/github/followers/RosanneVN?label=Follow&style=social)](https://github.com/RosanneVN)
 
 <div size='20px'>Holi, my name is Rosanne and I'm pinky dev :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px></h2>
+  <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px></h2>
+  
+  <img width="12%" align="right" alt="Simz" src="https://i.pinimg.com/564x/68/60/77/68607701d6244d68e4468ebb21d2c719.jpg" />
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 🔭 I’m currently working on my skincare app
 
-- 🔭 I’m currently working on React
+- 🌱 I’m currently learning Astro
   
-- 🌱 I’m currently learning React and Git/GitHub
+- 👯 Frontend Developer ReactJs / NextJs
   
-- 👯 I'm looking to be able to work full-time on my personal projects
-  
-- 💬 Ask me about HTML, CSS, JavaScript and "Michis"
-  
+- 💬 Ask me about Skincare, JavaScript and "Michis"
+
 - ⚡ Fun fact: I love video games, anime and that my plants don't die. And I'd die to be reading The Cruel Prince from my living room in New York
+
+
   
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<div align="center">
+<h2>Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
 
+  <img src="https://skillicons.dev/icons?i=nodejs,react,next,javascript,typescript,html,css,tailwindcss" /><br>
+  <img src="https://skillicons.dev/icons?i=github,figma,git" />
+</div>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
-<a href = 'https://www.twitter.com/RossanneVzNz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.twitter.com/RossanneVzNz'><img src="https://skillicons.dev/icons?i=twitter" /></a> 
 
-<a href = 'https://www.github.com/RosanneVN'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.discord.com/RosanneVazquez'><img src="https://skillicons.dev/icons?i=discord" /></a>
   
 <br>
 <br>
@@ -84,7 +81,7 @@
 
 
 -----
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+
 <!---
 RosanneVN/RosanneVN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
